@@ -4,7 +4,7 @@ An AI-powered platform designed to help street food vendors optimize their daily
 
 ## About the Project
 
-StallOS is a comprehensive toolkit for street food vendors, leveraging AI to tackle common challenges like ingredient variability, waste management, and dynamic pricing. The application provides actionable insights and intelligent assistants to help vendors run their business more efficiently and profitably.
+StallOS is a comprehensive toolkit for street food vendors, leveraging AI to tackle common challenges like ingredient variability, waste management, and dynamic pricing. The application provides actionable insights and intelligent assistants to help vendors run their business more efficiently and profitably
 
 ### Key Features:
 
